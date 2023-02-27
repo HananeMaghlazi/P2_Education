@@ -1,5 +1,6 @@
 # P2_Education : Analysez des données de systèmes éducatifs
 
+## Dans le cadre de la formation Data Scientist : Parcours en partenariat avec CentraleSupélec
 
 #### Enoncé:
 
